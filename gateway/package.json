@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express-jwt": "^6.0.0",
-    "fast-gateway": "^2.9.2"
+    "fast-gateway": "^4.2.0"
   }
 }
